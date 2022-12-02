@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">مراقبة المخزون</string>
+    <string name="storage1">الأثاثات</string>
+    <string name="storage2">أدوات كهربائية وتوابعها</string>
+    <string name="storage3">ذات القيمة</string>
+    <string name="storage4">الأدوات المكتبية ومستلزماتها</string>
+    <string name="storage5">المستهلك</string>
+    <string name="storage6">طوابع البريد</string>
+    <string name="storage7">طوابع المحاماة</string>
+    <string name="storage1_num">مخزن 1</string>
+    <string name="storage2_num">مخزن 3</string>
+    <string name="storage3_num">مخزن 4</string>
+    <string name="storage4_num">مخزن 5</string>
+    <string name="storage5_num">مخزن 6</string>
+    <string name="delete">حذف</string>
+    <string name="edit">تعديل</string>
+    <string name="title_activity_storage">StorageActivity</string>
+    <string name="title_activity_add_item">AddItemActivity</string>
+    <string name="add_item">إضافة صنف</string>
+    <string name="item_name">اسم الصنف</string>
+    <string name="input">الوارد</string>
+    <string name="output">المنصرف</string>
+    <string name="save">حفظ</string>
+    <string name="title_activity_edit_item">EditItemActivity</string>
+    <string name="edit_item">تعديل صنف</string>
+    <string name="supplier">المورد</string>
+    <string name="getter">المنصرف إليه</string>
+    <string name="date">التاريخ</string>
+    <string name="search">بحث</string>
+    <string name="no_items">لا يوجد أصناف</string>
+    <string name="fewTypes">الأصناف قليلة الكمية</string>
+    <string name="title_activity_low_quantity">LowQuantityActivity</string>
+</resources>
